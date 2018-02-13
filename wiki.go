@@ -1,3 +1,5 @@
+// Simple wiki-style internet app
+
 package main
 
 import (
