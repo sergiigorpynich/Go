@@ -1,6 +1,7 @@
 // Simple wiki-style internet app
 // Enhanced copy of go tutorial
-
+// Clean-up performed
+ 
 package main
 
 import (
