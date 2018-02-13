@@ -1,4 +1,5 @@
 // Simple wiki-style internet app
+// Enhanced copy of go tutorial
 
 package main
 
